@@ -1,0 +1,13 @@
+.text-style {
+  margin-bottom: 2rem;
+  border: 2px solid #ccc;
+  padding: 1rem;
+}
+
+.font-style-label {
+  margin-bottom: 0.5rem;
+}
+
+.text {
+  margin-top: 0.5rem;
+}
