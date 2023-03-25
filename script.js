@@ -12,7 +12,6 @@ $(document).ready(function() {
 			{label: "Bold", style: "font-weight: bold;"},
 			{label: "Italic", style: "font-style: italic;"},
 			{label: "Bold Italic", style: "font-weight: bold; font-style: italic;"},
-			{label: "serif-bold", style: "font-weight: bold; font-style: Times New Roman ;"},
 			{label: "Underline", style: "text-decoration: underline;"},
 			{label: "Strikethrough", style: "text-decoration: line-through;"},
     ];
